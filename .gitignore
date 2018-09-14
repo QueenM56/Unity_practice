@@ -34,3 +34,5 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+/github test/Assets/Ignore me/
+/github test/Assets/Ignore me.meta
